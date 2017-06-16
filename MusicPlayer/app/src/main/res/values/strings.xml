@@ -3,12 +3,12 @@
 
     <string name="app_name">Music Player</string>
     <string name="trigger_phrase">Play Music</string>
-    <string name="stop">Stop</string>
-	<string name="play">Play</string>
-	<string name="pause">Pause</string>
-	<string name="next">Next</string>
-	<string name="previous">Previous</string>
-	<string name="shuffle">Shuffle</string>
+    <string name="stop">停止</string>
+	<string name="play">播放</string>
+	<string name="pause">暂停</string>
+	<string name="next">下一首</string>
+	<string name="previous">上一首</string>
+	<string name="shuffle">随机播放</string>
 	<string name="loading_message">Loading your music. One moment&#8230;</string>
 	<string name="no_songs">No songs found</string>
 	<string name="error_loading_music">An error occurred while loading your music</string>
